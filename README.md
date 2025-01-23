@@ -1,3 +1,3 @@
 # Big-Data-Analytics-Kimia-Farma
 
-https://github.com/user-attachments/assets/f51a5e74-0793-4ae3-9f72-b3d7b344588b
+![image](https://github.com/user-attachments/assets/9087fb3f-c494-4436-92b5-ba492b4d560e)
