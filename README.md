@@ -36,7 +36,7 @@ This script is used for verifying and checking the data in the database. It allo
 
 ---
 
-By following these steps, you can ensure that the database is set up, populated, updated, and verified correctly.
+
 
 
 
